@@ -1,0 +1,7 @@
+name: timeSetter
+main: Main\timeSetter\Main
+version: 1.1.0
+description: 時刻を正しく合わせます
+api:
+  - 3.0.0
+load: STARTUP
